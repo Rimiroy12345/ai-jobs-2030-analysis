@@ -12,7 +12,6 @@ This project analyzes a dataset of 3,000 job records to investigate automation r
 - `Python_miniproject_ppt.pdf` — project slides / summary
 - `notebooks/` — Jupyter notebooks with EDA and plots
 - `data/AI_Impact_on_Jobs_2030.csv` — dataset 
-- `src/` — scripts for preprocessing & plotting
 - `README.md` — this file
 
 
